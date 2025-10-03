@@ -62,7 +62,4 @@ plt.show()
 <img width="1511" height="621" alt="image" src="https://github.com/user-attachments/assets/707a607c-4b59-49b1-aafe-8abfeebaf28d" />
 
 # Results
-```
-Attach the output waveform
-```
-# Hardware experiment output waveform.
+Hence the code for PCM and DCM are executed successfully and the waveforms are obtained.
